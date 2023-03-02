@@ -2,7 +2,7 @@
     WhatsApp messages using nodejs with TypeScript.We are using waba(WhatsApp Business Accounts) for send whatsApp message to any number.
 
 ## Setup Steps:
-### Required details for database,whatsApp token, whatsAppUrl and JWT
+### Required details for setup this project
    1. Add your mongodb database string in env file.
    2. Add your jwt token in env file.
    3. Add your whatsApp DIALOF token in env file.
